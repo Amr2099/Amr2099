@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amr
-- 👀 I’m interested in COMOUTER SCIENCE
+- 👀 I’m interested in COMPUTER SCIENCE
 - 🌱 I’m currently learning DIFFERENT THINGS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
